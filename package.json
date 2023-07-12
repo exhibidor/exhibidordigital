@@ -1,0 +1,27 @@
+{
+  "name": "exhibidor-digital",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@loadingio/transition.css": "^3.0.0",
+    "@next/font": "13.0.7",
+    "axios": "^1.2.1",
+    "eslint": "8.30.0",
+    "eslint-config-next": "13.0.7",
+    "framer-motion": "^8.0.2",
+    "next": "13.0.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-pdf": "^6.2.2",
+    "react-youtube": "^10.1.0",
+    "react-zoom-pan-pinch": "^3.0.7",
+    "sharp": "^0.31.3"
+  }
+}
