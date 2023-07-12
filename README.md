@@ -731,3 +731,4 @@ Esta es la estructura de  los objetos "categorias (categories)", "productos(prod
         },
       },
     ]# exhibidordigital
+# exhibidordigital
